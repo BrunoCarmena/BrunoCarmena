@@ -1,4 +1,3 @@
-# ![Banner](https://raw.githubusercontent.com/BrunoCarmena/BrunoCarmena/refs/heads/main/DALL%C2%B7E%202024-11-28%2014.07.29%20-%20Un%20banner%20profesional%20para%20un%20desarrollador%20frontend%20llamado%20BC%20CoderX%2C%20con%20tipograf%C3%ADa%20tridimensional%20destacada.%20Fondo%20con%20un%20degradado%20suave%20en%20tonos.webp)
 
 # 👨‍💻 Bruno Carmena
 
