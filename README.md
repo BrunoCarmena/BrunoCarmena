@@ -31,6 +31,14 @@
 
 ---
 
+## 🛠️ Habilidades técnicas  
+| Lenguaje / Herramienta | Nivel         | Experiencia |  
+|-------------------------|---------------|-------------|  
+| HTML / CSS             | ⭐⭐☆ ☆ ☆        | 2 años      |  
+| JavaScript             | ⭐⭐☆ ☆ ☆        | 2 años      |  
+| React.js               | ⭐⭐☆ ☆ ☆       | 2 años      |  
+
+
 ## 📫 Contacto
 
 - 💌 [Email](mailto:bruno.s.carmena25@gmail.com)  
@@ -44,3 +52,6 @@
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)  
 
 
+
+## 🤝 ¿Colaboramos?  
+Estoy abierto a colaborar en proyectos frontend o aprender nuevas tecnologías. ¡Contáctame y construyamos algo increíble juntos!
